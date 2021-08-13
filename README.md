@@ -1,4 +1,4 @@
-# Sparse-Shield-Social-Network-Immunization-vs-Harmful-Speech
+# Sparse Shield: Social Network Immunization vs. Harmful Speech
 
 Parts of this repo are from: https://github.com/allogn/Network-Immunization
 Asside from the original work we have added tweaks, Sparse Shield, Tools and Harmful Speech Detections
